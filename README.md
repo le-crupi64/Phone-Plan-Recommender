@@ -11,4 +11,4 @@ Every observation in the dataset contains monthly behavior information about one
 - is_ultra — plan for the current month (Ultra - 1, Smart - 0).
 
 ### Set Up Requirements 
-In order to run this project, an environment must be set up with Jupyter, Scikit-Learn, and Pandas. 
+In order to run this project, an environment must be set up with Jupyter, Scikit-Learn, Matplotlib, and Pandas. 
